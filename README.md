@@ -1,5 +1,5 @@
-<p align="center"> ![Github Sertsedengle Shewandagn](https://komarev.com/ghpvc/?username=sertsev)
-
+<p align="center"> 
+![](https://komarev.com/ghpvc/?username=sertsev)
 [![Linkedin Sertsedengle Shewandagn](https://img.shields.io/badge/Linkedin-500%2B-blue?style=social&logo=Linkedin)](https://linkedin.com/in/sertsev)
 [![Instagram SertseDengle Shewandagn](https://img.shields.io/badge/Instagram-200%2B-blue?style=social&logo=instagram)](https://instagram.com/sertsev)
 [![Twitter SertseDengle Shewandagn](https://img.shields.io/twitter/follow/sertsed?style=social)](https://twitter.com/sertsed)
@@ -74,8 +74,8 @@
 
 ### Stats:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev" alt="sertsev" /></a> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev" alt="sertsev" /></a> </p>
+<hr />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
@@ -84,4 +84,4 @@
 
 ### Support:
 
-<p><a href="https://www.buymeacoffee.com/sertsev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sertsev" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/sertsev"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sertsev" /></a></p><br><br>
