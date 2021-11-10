@@ -1,3 +1,11 @@
+<p align="center"> ![Github Sertsedengle Shewandagn](https://komarev.com/ghpvc/?username=sertsev)
+
+[![Linkedin Sertsedengle Shewandagn](https://img.shields.io/badge/Linkedin-500%2B-blue?style=social&logo=Linkedin)](https://linkedin.com/in/sertsev)
+[![Instagram SertseDengle Shewandagn](https://img.shields.io/badge/Instagram-200%2B-blue?style=social&logo=instagram)](https://instagram.com/sertsev)
+[![Twitter SertseDengle Shewandagn](https://img.shields.io/twitter/follow/sertsed?style=social)](https://twitter.com/sertsed)
+[![GitHub Sertsedengle Shewandagn](https://img.shields.io/github/followers/sertsev?label=follow&style=social)](https://github.com/sertsev)
+</p>
+
 <h1 align="center">Hey 👋 Welcome!, I'm Sertsedengle Shewandagn.</h1>
 <h3 align="center">"😄 A passionate Software developer from Ethiopia"</h3>
 
@@ -7,48 +15,22 @@
 - 💬 Ask me about anything
 - 📫 How to reach me - LinkedIN(Sertsedengle Shewandagn) Telegram(sertsev)
 
-[![Twitter: SertseDengle Shewandagn](https://img.shields.io/twitter/follow/sertsed?style=social)](https://twitter.com/sertsed)
-[![Linkedin: Sertsedengle Shewandagn](https://img.shields.io/badge/-Sertsedengle-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sertse/)](https://www.linkedin.com/in/sertse/)
-[![GitHub Sertsedengle Shewandagn](https://img.shields.io/github/followers/sertsev?label=follow&style=social)](https://github.com/sertsev)
-![](https://komarev.com/ghpvc/?username=sertsev)
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev" alt="sertsev" /></a> </p>
-
-### Projects
+### Current Projects
 
 - 🔭 I’m currently working on [Mahder](https://github.com/sertsev/mahder_)
+- 🔭 I’m currently working on [ASKUALA](https://github.com/sertsev/askuala)
 
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-<p align="center" width="200px" height="200px" background-color="darkblue"> COMING SOON </p>
+<p align="center" > COMING SOON </p>
 <!-- BLOG-POST-LIST:END -->
-
-### Connect with me:
-
-<p align="left">
-<a href="https://codepen.io/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sertsev" height="30" width="40" /></a>
-<!-- <a href="https://dev.to/sertsev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sertsev" height="30" width="40" /></a> -->
-<a href="https://twitter.com/sertsed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sertsed" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sertse" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sertsev" height="30" width="40" /></a>
-<!-- <a href="https://codesandbox.com/sertsev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sertsev" height="30" width="40" /></a>
-<a href="https://kaggle.com/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sertsev" height="30" width="40" /></a> -->
-<a href="https://fb.com/sertse.shewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sertse.shewa" height="30" width="40" /></a>
-<a href="https://instagram.com/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sertsev" height="30" width="40" /></a>
-<!-- <a href="https://dribbble.com/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sertsev" height="30" width="40" /></a> -->
-<a href="https://medium.com/@sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sertse" height="30" width="40" /></a>
-<!-- <a href="https://www.codechef.com/users/sertse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sertse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sertse" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sertse" height="30" width="40" /></a> -->
-<a href="https://auth.geeksforgeeks.org/user/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sertse" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
 <!-- <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  -->
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
  <!-- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> -->
@@ -70,11 +52,36 @@
    <!-- <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>  -->
    <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-### Support:
-<p><a href="https://www.buymeacoffee.com/sertsev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sertsev" /></a></p><br><br>
+### Connect with me:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
+<p align="center">
+<a href="https://codepen.io/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sertsev" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/sertsev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sertsev" height="30" width="40" /></a> -->
+<a href="https://twitter.com/sertsed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sertsed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sertse" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sertsev" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/sertsev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="sertsev" height="30" width="40" /></a>
+<a href="https://kaggle.com/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sertsev" height="30" width="40" /></a> -->
+<a href="https://fb.com/sertse.shewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sertse.shewa" height="30" width="40" /></a>
+<a href="https://instagram.com/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sertsev" height="30" width="40" /></a>
+<!-- <a href="https://dribbble.com/sertsev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sertsev" height="30" width="40" /></a> -->
+<a href="https://medium.com/@sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sertse" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/sertse" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sertse" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sertse" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sertse" height="30" width="40" /></a> -->
+<a href="https://auth.geeksforgeeks.org/user/sertse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sertse" height="30" width="40" /></a>
+</p>
+
+### Stats:
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev" alt="sertsev" /></a> </p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertsev&" alt="sertsev" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertsev&" alt="sertsev" /></p>
+
+### Support:
+
+<p><a href="https://www.buymeacoffee.com/sertsev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sertsev" /></a></p><br><br>
