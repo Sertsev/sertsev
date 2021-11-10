@@ -68,9 +68,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sertsev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sertsev" /></a></p><br><br>
 
+<div style="display: flex; flex-direction: row">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertsev&" alt="sertsev" /></p>
-
+</div>
