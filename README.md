@@ -7,7 +7,11 @@
 
 
 <h1 align="center">Hey 👋 Welcome!, I'm Sertsedengle Shewandagn.</h1>
-<h3 align="center">"😄 A passionate Software developer from Ethiopia"</h3>
+<h3 align="center">"😄 A passionate Software developer from Addis Ababa, Ethiopia"</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev&title=Star&title=Repositories&title=PullRequest&title=MultiLanguage&title=Commit&theme=juicyfresh&column=5&margin-w=15" alt="sertsev" /></a> </p>
+
+### A little bit about me:
 
 - 🔭 I’m currently working on Information Technology and software developer as a frelancer
 - 🌱 I’m currently learning Software Engineering
@@ -15,15 +19,12 @@
 - 💬 Ask me about anything
 - 📫 How to reach me - LinkedIN(Sertsedengle Shewandagn) Telegram(sertsev)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev&title=Star&title=Repositories&title=PullRequest&title=MultiLanguage&title=Commit&theme=juicyfresh&column=5&margin-w=15" alt="sertsev" /></a> </p>
-
-
-### Current Projects
+### Current Projects:
 
 - 🔭 I’m currently working on [Mahder](https://github.com/sertsev/mahder_)
 - 🔭 I’m currently working on [ASKUALA](https://github.com/sertsev/askuala)
 
-### Blogs posts
+### Blogs posts:
 
 <!-- BLOG-POST-LIST:START -->
 <p align="center" > COMING SOON </p>
@@ -76,7 +77,7 @@
 ### Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
-<br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertsev&" alt="sertsev" /></p>
