@@ -1,10 +1,10 @@
-<p align="center"> 
-![](https://komarev.com/ghpvc/?username=sertsev)
+
+![](https://komarev.com/ghpvc/?username=sertsev) 
 [![Linkedin Sertsedengle Shewandagn](https://img.shields.io/badge/Linkedin-500%2B-blue?style=social&logo=Linkedin)](https://linkedin.com/in/sertsev)
 [![Instagram SertseDengle Shewandagn](https://img.shields.io/badge/Instagram-200%2B-blue?style=social&logo=instagram)](https://instagram.com/sertsev)
 [![Twitter SertseDengle Shewandagn](https://img.shields.io/twitter/follow/sertsed?style=social)](https://twitter.com/sertsed)
 [![GitHub Sertsedengle Shewandagn](https://img.shields.io/github/followers/sertsev?label=follow&style=social)](https://github.com/sertsev)
-</p>
+
 
 <h1 align="center">Hey 👋 Welcome!, I'm Sertsedengle Shewandagn.</h1>
 <h3 align="center">"😄 A passionate Software developer from Ethiopia"</h3>
