@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Information Technology and software developer as a frelancer
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything 
+- 💬 Ask me about anything
 - 📫 How to reach me - LinkedIN(Sertsedengle Shewandagn) Telegram(sertsev)
 
 [![Twitter: SertseDengle Shewandagn](https://img.shields.io/twitter/follow/sertsed?style=social)](https://twitter.com/sertsed)
@@ -20,6 +20,7 @@
 - 🔭 I’m currently working on [Mahder](https://github.com/sertsev/mahder_)
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -68,10 +69,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sertsev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sertsev" /></a></p><br><br>
 
-<div style="display: flex; flex-direction: row">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertsev&" alt="sertsev" /></p>
+<div style="display: flex; flex-direction: row; width: 100%;">
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sertsev&" alt="sertsev" /></p>
 </div>
