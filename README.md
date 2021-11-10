@@ -15,6 +15,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me - LinkedIN(Sertsedengle Shewandagn) Telegram(sertsev)
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev&title=Star&title=Repositories&title=PullRequest&title=MultiLanguage&title=Commit&theme=juicyfresh&column=5&margin-w=15" alt="sertsev" /></a> </p>
 
 
 ### Current Projects
@@ -74,8 +75,6 @@
 
 ### Stats:
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sertsev" alt="sertsev" /></a> </p>
-<hr />
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sertsev&show_icons=true&locale=en&layout=compact" alt="sertsev" /></p>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sertsev&show_icons=true&locale=en" alt="sertsev" /></p>
