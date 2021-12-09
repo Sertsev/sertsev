@@ -16,7 +16,7 @@
 <!-- A bit description about myself -->
 ### A little bit about me:
 
-- 🔭 I’m currently working on Information Technology and software developer as a frelancer
+- 🔭 I’m currently working on Information Technology and software developer as a freelancer
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about anything
