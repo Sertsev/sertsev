@@ -25,8 +25,8 @@
 <!-- Current projects I am working on -->
 ### Current Projects:
 
-- 🔭 I’m currently working on [Mahder](https://github.com/sertsev/mahder_)
-- 🔭 I’m currently working on [ASKUALA](https://github.com/sertsev/askuala)
+- 🔭 I’m currently working on [Awsugn](https://github.com/sertsev/awsugn)
+- 🔭 I’m currently working on [LMS](https://github.com/sertsev/lms-api)
 
 <!-- My blog posts from medium and my website -->
 ### Blogs posts:
